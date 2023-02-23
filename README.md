@@ -1,7 +1,5 @@
 # Stock Analysis
 
-**Adapted from content made by Kaan Şimşek**
-
 This report pulls data from Yahoo Finance and creates an interactive dashboard with several visual iterations of similar data points.
 
 # Data source
